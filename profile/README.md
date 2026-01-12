@@ -7,3 +7,7 @@
 Emerging from nowhere, leaving traces on earth, disappearing into the void.
 
 > `git commit -m "leaving traces"; exit(0)`
+
+## Wan Cin
+
+When the wheel turns, the void is filled. When the void is filled, we feast.
